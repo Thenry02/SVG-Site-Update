@@ -6,7 +6,7 @@ body {
   font-weight: 300;
   color: #F4C6A6;
   background: url('svgs/background.svg') #9a6846;
-  background-size: 160px;
+  background-size: 159px 150px;
 }
 
 .logosvg {
